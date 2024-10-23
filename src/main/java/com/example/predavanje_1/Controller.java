@@ -7,7 +7,7 @@ public class Controller {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Pozdrav Andrija! ivan je, evo me opet, sada iz mastera";
+        return "Pozdrav Andrija! ivan je, evo me opet, sada iz mastera, dodajem jos da vidim kako funcionira";
 
     }
 }
